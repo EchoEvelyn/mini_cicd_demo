@@ -1,10 +1,5 @@
-# Python
 __pycache__/
 *.pyc
 .pytest_cache/
-
-# venv
 cicd-demo/
-
-# macOS
 .DS_Store
